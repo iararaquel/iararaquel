@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Iara Raquel</h2>
+<h2 align="left">Hi 👋 My name is Iara Raquel. Estudante de Tecnologia da Informação e pesquisadora no CILab, sempre buscando evoluir em linguagens de programação e desenvolvimento de software.</h2>
 
 
 ![iararaquel GitHub stats](https://github-readme-stats.vercel.app/api?username=iararaquel&show_icons=true&theme=onedark&count_private=true)
